@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSf9qVA1ymkACDJDlHkvTkQdZCM5N5s8ga4VVq7T0IWTWVm4ti2+X4ZlS01sAuCDk/hex9rbwMvN0psDH6lpyQ==",
+  "success": true,
+  "projectFilePath": "/Users/adityaagarwal/Desktop/Dotnet and Angular Course/Demo/DatingApp/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/adityaagarwal/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/adityaagarwal/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/adityaagarwal/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/adityaagarwal/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/adityaagarwal/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/adityaagarwal/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
